@@ -32,6 +32,8 @@ Deploy Your Own Bot ♥️ **Star 🌟 Fork 🍴 & Deploy**
 ### Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
+<p><a href="https://heroku.com/deploy?template=https://github.com/akprivatebots/MegaDL-Bot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+
 Note: `First Fork Then Click On Deploy Button!`
 
 ### Self Host
